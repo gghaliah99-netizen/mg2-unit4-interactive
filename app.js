@@ -28,7 +28,7 @@ async function submitResults() {
 
   const data = {
     studentName,
-    class: classroom,
+    studentClass: classroom,
     unit: "MG2 Unit 4",
     section: "Complete Workbook",
     score,
