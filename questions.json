@@ -1,0 +1,631 @@
+[
+  {
+    "id": "listen",
+    "title": "Listen & Discuss",
+    "questions": [
+      {
+        "type": "match",
+        "prompt": "broadcast",
+        "options": [
+          "confusing; hard to understand",
+          "a variation",
+          "air; transmit to audience by radio or TV",
+          "to make a secret plan",
+          "wealthy; rich"
+        ],
+        "answer": "air; transmit to audience by radio or TV"
+      },
+      {
+        "type": "match",
+        "prompt": "puzzling",
+        "options": [
+          "confusing; hard to understand",
+          "a variation",
+          "air; transmit to audience by radio or TV",
+          "to make a secret plan",
+          "wealthy; rich"
+        ],
+        "answer": "confusing; hard to understand"
+      },
+      {
+        "type": "match",
+        "prompt": "version",
+        "options": [
+          "confusing; hard to understand",
+          "a variation",
+          "air; transmit to audience by radio or TV",
+          "to make a secret plan",
+          "wealthy; rich"
+        ],
+        "answer": "a variation"
+      },
+      {
+        "type": "match",
+        "prompt": "prosperous",
+        "options": [
+          "confusing; hard to understand",
+          "a variation",
+          "air; transmit to audience by radio or TV",
+          "to make a secret plan",
+          "wealthy; rich"
+        ],
+        "answer": "wealthy; rich"
+      },
+      {
+        "type": "match",
+        "prompt": "plot",
+        "options": [
+          "confusing; hard to understand",
+          "a variation",
+          "air; transmit to audience by radio or TV",
+          "to make a secret plan",
+          "wealthy; rich"
+        ],
+        "answer": "to make a secret plan"
+      },
+      {
+        "type": "mc",
+        "prompt": "There are many ______ people who work in the television industry.",
+        "options": [
+          "puzzling",
+          "fictional",
+          "prosperous"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "I liked the old ______ of that computer game.",
+        "options": [
+          "version",
+          "contestant",
+          "plot"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "There are a lot of ______ who want to win the prize.",
+        "options": [
+          "contestants",
+          "series",
+          "versions"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "They will ______ the TV show tomorrow night at 8:00.",
+        "options": [
+          "broadcast",
+          "plot",
+          "play"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "______ means encouraging and making you feel you want to do something.",
+        "options": [
+          "puzzling",
+          "prosperous",
+          "inspiring"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "grammar-practice",
+    "title": "Grammar: Direct & Indirect Objects",
+    "questions": [
+      {
+        "type": "text",
+        "prompt": "Identify the direct object and indirect object: My friend sent me a postcard."
+      },
+      {
+        "type": "text",
+        "prompt": "Identify the direct object and indirect object: The teacher gave the students a pop quiz."
+      },
+      {
+        "type": "text",
+        "prompt": "Identify the direct object and indirect object: I bought a new book."
+      },
+      {
+        "type": "text",
+        "prompt": "Identify the direct object and indirect object: She told him a secret."
+      },
+      {
+        "type": "text",
+        "prompt": "Identify the direct object and indirect object: They built a house for their parents."
+      },
+      {
+        "type": "fill",
+        "prompt": "I sent a postcard ______ my grandparents.",
+        "answer": "to"
+      },
+      {
+        "type": "fill",
+        "prompt": "She cooked a delicious meal ______ her family.",
+        "answer": "for"
+      },
+      {
+        "type": "fill",
+        "prompt": "He built a house ______ his family.",
+        "answer": "for"
+      },
+      {
+        "type": "fill",
+        "prompt": "Can you pass the salt ______ me?",
+        "answer": "to"
+      },
+      {
+        "type": "fill",
+        "prompt": "They bought a gift ______ their friend.",
+        "answer": "for"
+      }
+    ]
+  },
+  {
+    "id": "grammar-test",
+    "title": "Grammar: Choose the Correct Answer",
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Please give that book ______ me.",
+        "options": [
+          "to",
+          "for",
+          "of"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Could you buy some fruit ______ me at the store?",
+        "options": [
+          "in",
+          "to",
+          "for"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "I’ll write an email ______ you every day when I’m away.",
+        "options": [
+          "for",
+          "off",
+          "to"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "I cooked dinner ______ you. Here you are.",
+        "options": [
+          "to",
+          "of",
+          "for"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "The comedian told a joke ______.",
+        "options": [
+          "the audience",
+          "to the audience",
+          "for the audience"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Will you make ______ some coffee?",
+        "options": [
+          "for me",
+          "me",
+          "to me"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "I will send ______ to you.",
+        "options": [
+          "to a message",
+          "a message",
+          "for a message"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Would you show the email ______?",
+        "options": [
+          "me",
+          "to me",
+          "for me"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "My parents bought a TV ______.",
+        "options": [
+          "for us",
+          "to us",
+          "us"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "They will cash ______.",
+        "options": [
+          "the check you",
+          "the check for you",
+          "to you the check"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "conversation",
+    "title": "Conversation & Vocabulary Building",
+    "questions": [
+      {
+        "type": "match",
+        "prompt": "couch potato",
+        "options": [
+          "annoy",
+          "someone who watches too much TV",
+          "enjoy"
+        ],
+        "answer": "someone who watches too much TV"
+      },
+      {
+        "type": "match",
+        "prompt": "get a kick of",
+        "options": [
+          "annoy",
+          "someone who watches too much TV",
+          "enjoy"
+        ],
+        "answer": "enjoy"
+      },
+      {
+        "type": "match",
+        "prompt": "bug",
+        "options": [
+          "annoy",
+          "someone who watches too much TV",
+          "enjoy"
+        ],
+        "answer": "annoy"
+      },
+      {
+        "type": "mc",
+        "prompt": "I really ______ comedy sitcoms.",
+        "options": [
+          "bug",
+          "c’mon",
+          "get a kick of"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "This game show ______ me. It is extremely boring.",
+        "options": [
+          "gets a kick of",
+          "gets",
+          "bugs"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "He is a ______. He is always watching TV!",
+        "options": [
+          "couch potato",
+          "catch tomato",
+          "watch potato"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "match",
+        "prompt": "distinct",
+        "options": [
+          "development of an idea",
+          "clearly different",
+          "send out",
+          "very important event"
+        ],
+        "answer": "clearly different"
+      },
+      {
+        "type": "match",
+        "prompt": "transmit",
+        "options": [
+          "development of an idea",
+          "clearly different",
+          "send out",
+          "very important event"
+        ],
+        "answer": "send out"
+      },
+      {
+        "type": "match",
+        "prompt": "milestone",
+        "options": [
+          "development of an idea",
+          "clearly different",
+          "send out",
+          "very important event"
+        ],
+        "answer": "very important event"
+      },
+      {
+        "type": "match",
+        "prompt": "evolution",
+        "options": [
+          "development of an idea",
+          "clearly different",
+          "send out",
+          "very important event"
+        ],
+        "answer": "development of an idea"
+      },
+      {
+        "type": "mc",
+        "prompt": "Many inventors helped with the ______ of TV.",
+        "options": [
+          "evolution",
+          "affluence",
+          "milestone"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "The first ______ of the television system was created in the 1920s.",
+        "options": [
+          "affluence",
+          "patent",
+          "prototype"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "______ means to get the right to make or sell a new invention.",
+        "options": [
+          "patent",
+          "transmit",
+          "broadcast"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "reading",
+    "title": "Reading: A Brief Overview of the History of Television",
+    "questions": [
+      {
+        "type": "text",
+        "prompt": "Why do you like TV?"
+      },
+      {
+        "type": "text",
+        "prompt": "What is the main idea of the passage?"
+      },
+      {
+        "type": "text",
+        "prompt": "What were the two main schools of thought in early television technology?"
+      },
+      {
+        "type": "text",
+        "prompt": "What was the “scanning principle” that Nipkow discovered? When?"
+      },
+      {
+        "type": "text",
+        "prompt": "What does the text say is the basis for all current electronic televisions?"
+      },
+      {
+        "type": "text",
+        "prompt": "How long after the earliest proposal did commercial broadcasting of color television begin?"
+      },
+      {
+        "type": "text",
+        "prompt": "What were some of John Baird’s key technological milestones?"
+      },
+      {
+        "type": "text",
+        "prompt": "What is the meaning of the word “television” according to the passage?"
+      },
+      {
+        "type": "text",
+        "prompt": "Who was Louis W. Parker?"
+      },
+      {
+        "type": "text",
+        "prompt": "What did a plasma television screen symbolize until recently?"
+      },
+      {
+        "type": "text",
+        "prompt": "What is the primary factor that makes viewers switch to Internet television?"
+      }
+    ]
+  },
+  {
+    "id": "speaking",
+    "title": "Speaking: Favorite TV Shows",
+    "questions": [
+      {
+        "type": "text",
+        "prompt": "Make a list of your favorite TV shows and the reasons why you like them."
+      },
+      {
+        "type": "text",
+        "prompt": "Which TV shows are the most popular among your friends?"
+      },
+      {
+        "type": "text",
+        "prompt": "What do you like about these shows?"
+      },
+      {
+        "type": "text",
+        "prompt": "What do you dislike about these shows?"
+      },
+      {
+        "type": "text",
+        "prompt": "Life Values: What positive lesson can TV teach us?"
+      }
+    ]
+  },
+  {
+    "id": "writing",
+    "title": "Writing: Book Review",
+    "questions": [
+      {
+        "type": "text",
+        "prompt": "Title of book"
+      },
+      {
+        "type": "text",
+        "prompt": "Author"
+      },
+      {
+        "type": "text",
+        "prompt": "Fiction / non-fiction / genre"
+      },
+      {
+        "type": "text",
+        "prompt": "Information about the characters, setting, plot, etc."
+      },
+      {
+        "type": "text",
+        "prompt": "Comparison and contrast (this book vs. other books)"
+      },
+      {
+        "type": "text",
+        "prompt": "Would you recommend it?"
+      },
+      {
+        "type": "text",
+        "prompt": "Write your book review."
+      }
+    ]
+  },
+  {
+    "id": "fmf",
+    "title": "Form, Meaning & Function",
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "We can see ______ moon at night.",
+        "options": [
+          "the",
+          "a",
+          "no article"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "The Nile is ______ longest river in the world.",
+        "options": [
+          "the",
+          "a",
+          "no article"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "We usually watch ______ football on TV.",
+        "options": [
+          "the",
+          "a",
+          "no article"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "He’s in ______ Dubai on vacation.",
+        "options": [
+          "an",
+          "a",
+          "no article"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "The Janadriyah festival takes place in ______ village near Riyadh.",
+        "options": [
+          "an",
+          "a",
+          "the"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "A satellite dish is a tool ______ we use to transmit signals.",
+        "options": [
+          "who",
+          "which",
+          "whom"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "The contestant ______ won the quiz show prize is a millionaire now.",
+        "options": [
+          "which",
+          "where",
+          "who"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "My grandfather is the person ______ I admire most.",
+        "options": [
+          "who/whom/that/ Ø",
+          "which/that/ Ø",
+          "who/ Ø"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "The actor ______ has won the award is over there.",
+        "options": [
+          "who/that",
+          "who/ Ø/whom",
+          "that/ Ø"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "English is the language ______ we are studying right now.",
+        "options": [
+          "which/who",
+          "which/that/ Ø",
+          "whom/which"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+]
