@@ -69,16 +69,4 @@ async function submitResults() {
     alert("Could not send results. Please try again.");
   }
 }
-function fillTestAnswers() {
-  sections.forEach(section => {
-    section.questions.forEach((q, i) => {
-      const k = section.id + "_" + i;
-      answers[k] = q.type === "mc" ? "0" :
-        q.type === "text" ? "Test answer" :
-        q.options?.[0] ?? "Test";
-    });
-  });
-  save();
-  render();
-  alert("Test answers filled!");
-}
+
